@@ -1,9 +1,9 @@
-# Stock Search, Analysis, and Portfolio Optimization
+# Stock Search, Analysis, and Portfolio Optimization 📈
 
 ## Overview
 This project provides tools for stock search, analysis, portfolio optimization, and backtesting. Users can search for stock data, visualize trends, optimize their portfolio based on risk-return profiles, and test trading strategies using technical indicators.
 
-## Features
+## Features 🚀
 
 ### Stock Search and Analysis
 1. **Input Ticker**: Enter the stock ticker (e.g., BBCA for Bank Central Asia).
@@ -22,6 +22,6 @@ This project provides tools for stock search, analysis, portfolio optimization, 
 3. **View Results**: Get performance metrics including **Sharpe Ratio** to evaluate strategy performance.
 
 ## Installation
-1. Clone the repository:
-2. Install required dependencies:
-3. Run the application:
+1. Clone the repository:  https://github.com/Christopherlex/Stock_Analysis.git
+2. Install required dependencies: yFinance
+3. Run the application: .py
